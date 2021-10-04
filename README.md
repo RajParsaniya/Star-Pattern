@@ -1,1 +1,1 @@
-# Star-Pattern
+# Right Triangle Star Pattern
